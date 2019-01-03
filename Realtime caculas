@@ -1,0 +1,8 @@
+the request function R(t) represents the total amount of computation that has been requested up to time t.
+the deliverd computation function R'(t) represents the total amount of computation that has been delivered up to time t.
+The capacity function C(t) represents the maximum amount of computation that could be delivered up to time(if the processor runs under full load).load).
+The remaining capacity function C'(t) represents the total amount of computation that has not been used up to time.
+Request Curve:
+Delivery Curve:
+Remaining capacity curve:
+
