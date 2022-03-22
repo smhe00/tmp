@@ -5,4 +5,3 @@
 P2P
 共识算法： POW POS DPOS BPFT
 应用： 身份链
-
