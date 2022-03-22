@@ -5,3 +5,5 @@
 P2P
 共识算法： POW POS DPOS BPFT
 应用： 身份链
+
+![image](https://user-images.githubusercontent.com/20885603/159447190-c56653f4-afb9-4b50-9903-de3d3c5a7056.png)
